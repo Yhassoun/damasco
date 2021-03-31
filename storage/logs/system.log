@@ -1,0 +1,45 @@
+[2021-03-31 01:40:04] development.DEBUG: Message-ID: <bd9a7b0ff49e43c12d64c546500be305@127.0.0.1>
+Date: Wed, 31 Mar 2021 01:40:04 +0400
+Subject: This a test email
+From: Damasco Restaurant <info@damascorestaurant.com>
+To: Admin <admin@admin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1617140404_fb2566479e869466fc4e6f20afdecfdf_=_"
+
+
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+This is a test email. If you've received this, it means emails are working in TastyIgniter.  
+[2021-03-31 01:43:38] development.DEBUG: Message-ID: <fbb95e19d48d453b9f8c946a6accab4f@127.0.0.1>
+Date: Wed, 31 Mar 2021 01:43:38 +0400
+Subject: This a test email
+From: Damasco Restaurant <info@damascorestaurant.com>
+To: Admin <admin@admin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1617140618_7d5e4678f75a795fbdd49f6a05ae9844_=_"
+
+
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+This is a test email. If you've received this, it means emails are working in TastyIgniter.  
+[2021-03-31 01:51:22] development.DEBUG: Message-ID: <d77ecb24b8df2b6824a3445dc2aa19cc@127.0.0.1>
+Date: Wed, 31 Mar 2021 01:51:22 +0400
+Subject: This a test email
+From: Damasco Restaurant <info@damascorestaurant.com>
+To: Admin <admin@admin.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_1617141082_188b5a6fa981260f6ad1c42cb3c58e3f_=_"
+
+
+
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+This is a test email. If you've received this, it means emails are working in TastyIgniter.  
